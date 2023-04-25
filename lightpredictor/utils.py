@@ -1,8 +1,8 @@
 # This Python file uses the following encoding: utf-8
 '''
-Created on Mar 24, 2013
+Created on Mar 24, 2023
 
-@author: dani
+@author: sphinx-austin
 '''
 from lxml import etree
 
