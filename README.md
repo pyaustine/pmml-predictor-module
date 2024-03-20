@@ -20,4 +20,4 @@ Sample:
     * Migrate to Python3.
     * Check PMML versions.
 
-# Licence
+# License
