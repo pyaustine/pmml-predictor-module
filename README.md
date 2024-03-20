@@ -21,3 +21,4 @@ Sample:
     * Check PMML versions.
 
 # License
+-  The license only applies to the source files in this repository.
